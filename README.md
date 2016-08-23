@@ -9,6 +9,7 @@ playground's live view. Use
 [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) for this task.
 It's perfectly okay to check out ReactiveCocoa and code away in their sandbox.
 It has everything you need.
+However you can also setup a new project and include the framework through Carthage or CocoaPods.
 
 If you have any questions or problems drop me a message and I'll try to help you.
 
