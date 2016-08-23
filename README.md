@@ -1,7 +1,7 @@
 # iOS code challenge
 
 ## Description
-The goal of this challenge is to query the [giphy random roulette
+The goal of this challenge is to query the [Giphy random roulette
 API](https://github.com/Giphy/GiphyAPI#sticker-roulette-random-endpoint) and
 display the resulting image in the playground either by simply assigning an
 NSImage/UIImage to a variable or by instantiating an image view in the
